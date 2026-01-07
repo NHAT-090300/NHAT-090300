@@ -1,119 +1,75 @@
-<h1 align="center">Nguyen Phuoc Nhat</h1>
-<h3 align="center">Full-stack Developer • Web3 • DevOps</h3>
+# Hi there, I'm Nguyen Phuoc Nhat! 👋
 
-<p align="center">
-  <a href="mailto:nhatnp.dn@gmail.com">📧 Email</a> •
-  <a href="https://github.com/your-username">💻 GitHub</a> •
-  📍 Da Nang, Vietnam
-</p>
+<div align="center">
+  
+  **Senior Full-stack Developer | Web3 & Blockchain Specialist | DevOps Engineer**
+  
+  *Building scalable, high-performance web applications & decentralized solutions.*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhatnp.dn@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NHAT-090300)
 
----
-
-## ⚡ About Me
-
-> Building scalable systems from **UI → Backend → Blockchain → Infrastructure**
-
-- 🧠 **4+ years** building high-performance web applications  
-- 🔗 **Web3 specialist** (EVM & SVM, NFT, dApps, smart contract integration)  
-- ☁️ **DevOps-oriented developer** (Docker, Kubernetes, CI/CD, Cloudflare)  
-- 🏗️ Strong experience with **microservices & system design**  
-- 🚀 Product-focused, performance-driven, production-ready mindset  
+</div>
 
 ---
 
-## 🛠️ Tech Arsenal
+## 👨‍💻 About Me
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,vue,redux,tailwind,html,css,sass" />
-</p>
+I am a dedicated **Full-stack Developer** with **4+ years of experience** in the software industry. My expertise lies in the **Web3 ecosystem (EVM & SVM)**, where I have spent 3 years architecting and building decentralized applications. Additionally, I possess strong **DevOps** capabilities (1+ year), optimizing CI/CD pipelines and cloud infrastructure.
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,kafka" />
-</p>
-
-### Web3
-<p>
-  <img src="https://skillicons.dev/icons?i=ethereum,solana" />
-</p>
-
-- Wagmi • Viem • Web3.js • WalletConnect • Solana-web3.js
-
-### DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,jenkins,githubactions,cloudflare" />
-</p>
+* 🔭 **Current Focus:** Enterprise Blockchain Systems & Asset Tokenization.
+* 🌱 **Deepening Knowledge:** Advanced Kubernetes orchestration & Zero-Knowledge Proofs.
+* 💼 **Currently working at:** MetaDAP (Da Nang Branch).
+* 📍 **Location:** Da Nang, Vietnam.
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Technical Arsenal
 
-### **MetaDAP – Da Nang**  
-**Full-stack Developer / DevOps** (2023 – Present)
+<div align="center">
 
-- Developed **enterprise blockchain & Web3 platforms**
-- Core projects: **RiseGate**, **TokenMall**, **MetaDAP Enterprise Blockchain**
-- Built Web3-integrated frontend with **Next.js**
-- Designed scalable backend using **Node.js & MongoDB**
-- Operated **CI/CD, Docker, Kubernetes, Cloudflare**
-- Improved performance, reliability, and deployment automation
+| **Frontend** | **Backend** | **Web3 / Blockchain** | **DevOps & Cloud** |
+| :---: | :---: | :---: | :---: |
+| ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) | ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) |
+| ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white) | ![K8s](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) | ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) | ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) | **Wagmi / Viem** | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) |
 
----
-
-### **STDIO Hue – Da Nang**  
-**Front-end Developer** (2021 – 2023)
-
-- Built large-scale web & e-commerce systems
-- Tech stack: React, Next.js, Vue
-- Worked in **Agile/Scrum** teams
-- Projects: Bidu, DaPass, Gapmash, Gtech, Growth-Wallet
+</div>
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Key Projects
 
-### 🔹 RiseGate  
-Digital asset tokenization platform  
-🌐 https://risegate.io  
+### 🪙 [RiseGate] - Asset Tokenization Platform
+*A blockchain-based platform enabling businesses to tokenize real-world assets with a transparent and scalable infrastructure.*
+* **Role:** Full-stack Developer & DevOps.
+* **Tech Stack:** Next.js, Wagmi, Node.js (Microservices), MongoDB, Kafka, Docker, Kubernetes.
+* **Key Achievement:** Successfully integrated Web3 wallets and optimized deployment pipelines.
 
-### 🔹 TokenMall  
-NFT-based voucher e-commerce platform  
-🌐 https://tokenmall.vn  
+### 🛒 [Token Mall] - NFT E-commerce Ecosystem
+*An innovative E-commerce platform for OCOP products where NFTs function as digital vouchers.*
+* **Role:** Full-stack Developer.
+* **Tech Stack:** Next.js, Viem, React Hooks, Ant Design, Microservices Architecture.
 
-### 🔹 MetaDAP Enterprise Blockchain  
-EVM-compatible enterprise blockchain  
-🌐 https://explorer.chain.metadap.io  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=your-username&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="140"/>
-</p>
+### 🔗 [MetaDAP Enterprise] - Blockchain Infrastructure
+*Enterprise-grade blockchain system leveraging EVM for smart contract execution.*
+* **Role:** DevOps Engineer.
+* **Tech Stack:** Ethereum Virtual Machine (EVM), Smart Contracts, Cloud Infrastructure.
+* **Responsibility:** Maintained network stability, security, and smart contract operations.
 
 ---
 
-## 🎓 Education
-**Da Nang University of Science and Technology**  
-Construction Informatics • GPA: 2.9 / 4  
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NHAT-090300&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Nhat's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NHAT-090300&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</div>
 
 ---
 
-## 🤝 Let's Connect
-- 📧 **nhatnp.dn@gmail.com**
-- 💻 **https://github.com/your-username**
-
-<p align="center">
-  ⭐ If you like my work, consider starring my repositories!
-</p>
+<div align="center">
+  <sub>Let's build the future of Web3 together! 🚀</sub>
+</div>
