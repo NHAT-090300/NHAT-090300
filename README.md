@@ -139,10 +139,4 @@ Projects: Bidu, DaPass, GapMash, GTech, Growth Wallet
 - 💼 LinkedIn: _(add later)_
 - 🌐 Portfolio: _(optional)_
 
----
 
-<div align="center">
-
-> _Build clean systems. Ship real products. Keep learning._ 🚀  
-
-</div>
