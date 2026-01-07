@@ -12,7 +12,7 @@ I focus on building **production-ready products**, scalable infrastructures, and
 - ☁️ Hands-on with **Docker, Kubernetes, AWS, CI/CD**
 - 🧩 Prefer **clean architecture, performance, and maintainability**
 
---
+---
 
 ## 🛠 Tech Stack
 
