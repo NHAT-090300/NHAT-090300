@@ -1,73 +1,159 @@
-# Hi there, I'm Nguyen Phuoc Nhat! 👋
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Full-stack+Developer;Web3+Engineer+(EVM+%2F+SVM);DevOps+Enthusiast)](https://git.io/typing-svg)
+# 👋 Hi, I'm Nguyen Phuoc Nhat  
+### 🚀 Full-stack Developer | Web3 Engineer | DevOps
 
-[cite_start]I am a **Full-stack Web Developer** with over **4 years of experience** building scalable and high-performance web applications[cite: 8]. [cite_start]I have a strong background in the **Web3 ecosystem (3 years)** and **DevOps (1+ year)**[cite: 9, 10].
+💻 4+ years building scalable web applications  
+🔗 3+ years in Web3 (EVM & SVM)  
+⚙️ 1+ year in DevOps & Infrastructure  
 
-[cite_start]Currently, I'm working as a Full-stack Developer at **MetaDAP**[cite: 12].
+📍 Vietnam | 📧 nhatnp.dn@gmail.com  
 
----
-
-### 🚀 About Me
-
-- [cite_start]🔭 I’m currently working on **Enterprise Blockchain Systems & Digital Asset Tokenization**[cite: 15, 49].
-- [cite_start]🌱 I have deep experience with **EVM & SVM (Solana)** development[cite: 9].
-- [cite_start]☁️ I'm skilled in DevOps tools like **Docker, Kubernetes (K8s), AWS, and Cloudflare**[cite: 10, 31, 32].
-- 💬 Ask me about: **React/Next.js, Node.js, Web3 Integration, Microservices**.
-- 📫 How to reach me: **nhatnp.dn@gmail.com**
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 About Me
 
-#### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+I’m a **Full-stack Developer** with strong experience in **Web3 systems and backend architecture**.  
+I focus on building **production-ready products**, scalable infrastructures, and clean codebases.
 
-#### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=ant-design&logoColor=white)
-
-#### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
-
-#### ⛓️ Web3 & Blockchain
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Wagmi](https://img.shields.io/badge/Wagmi-grey?style=flat&logo=wagmi&logoColor=white)
-
-#### 🔧 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+- ⚡ Specialized in **Next.js, Node.js, MongoDB**
+- 🔐 Deep experience with **blockchain, NFTs, smart contract integration**
+- ☁️ Hands-on with **Docker, Kubernetes, AWS, CI/CD**
+- 🧩 Prefer **clean architecture, performance, and maintainability**
 
 ---
 
-### 💼 Key Projects Highlights
+## 🛠 Tech Stack
 
-| Project | Role | Tech Stack |
-| :--- | :--- | :--- |
-| [cite_start]**RiseGate** [cite: 45] | Full-stack & DevOps | Next.js, Wagmi, Node.js, Kafka, Docker, K8s |
-| [cite_start]**Token Mall** [cite: 61] | Full-stack & DevOps | Next.js, Viem, Microservices, MongoDB |
-| [cite_start]**MetaDAP Enterprise** [cite: 75] | DevOps Engineer | EVM, Blockchain Infrastructure, Monitoring |
-| [cite_start]**Knky.cash** [cite: 82] | Full-stack | Next.js, Tailwind, Node.js, MongoDB |
-
----
-<p align="center">
-  <a href="mailto:nhatnp.dn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+### 🎨 Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,html,css,sass,js,ts" />
 </p>
+
+---
+
+### 🧩 Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,postgres" />
+</p>
+
+---
+
+### 🔗 Web3
+<p>
+  <img src="https://skillicons.dev/icons?i=ethereum,solidity" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Wagmi-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Viem-3C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge" />
+</p>
+
+---
+
+### ⚙️ DevOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,cloudflare,jenkins,githubactions,gitlab" />
+</p>
+
+---
+
+### 🧰 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,webstorm" />
+</p>
+
+---
+
+## 💼 Experience
+
+### **MetaDAP** — Full-stack Developer / DevOps  
+📅 2023 – Present | Da Nang
+
+- Developed blockchain platforms: **RiseGate**, **TokenMall**
+- Built **microservice-based systems**
+- Integrated **Web3 features** (NFT, smart contracts, wallets)
+- Deployed & monitored systems using **Docker, Kubernetes, Cloudflare**
+
+---
+
+### **Stdio Hue** — Front-end Developer  
+📅 2021 – 2023
+
+- Built large-scale web applications
+- Worked in **Agile / Scrum** teams
+- Actively researched and shared new technologies
+
+Projects: Bidu, DaPass, GapMash, GTech, Growth Wallet
+
+---
+
+## 🚧 Highlight Projects
+
+### 🔹 RiseGate  
+**Digital Asset Tokenization Platform**
+
+- Tokenization of real-world assets on blockchain
+- Tech: Next.js, Node.js, MongoDB, Kafka, Kubernetes
+- Role: Full-stack Developer / DevOps
+
+🔗 https://risegate.io
+
+---
+
+### 🔹 TokenMall  
+**NFT Voucher E-commerce Platform**
+
+- NFTs used as vouchers for OCOP products
+- Full Web3 integration
+- Microservice architecture
+
+🔗 https://tokenmall.vn
+
+---
+
+### 🔹 MetaDAP Enterprise Blockchain  
+**EVM-compatible Enterprise Blockchain**
+
+- Blockchain infrastructure monitoring
+- Smart contract deployment support
+
+🔗 https://explorer.chain.metadap.io
+
+---
+
+### 🔹 KNKY.CASH  
+**Event Landing Page**
+
+- High-conversion landing page
+- Tech: Next.js, Tailwind, Node.js
+
+🔗 https://knky.cash
+
+---
+
+## 🎓 Education
+
+**Da Nang University of Science and Technology**  
+🎓 Construction Informatics (2018 – 2023)  
+⭐ GPA: 2.9 / 4.0
+
+---
+
+## 🤝 Connect with Me
+
+- 📧 Email: **nhatnp.dn@gmail.com**
+- 💼 LinkedIn: _(add later)_
+- 🌐 Portfolio: _(optional)_
+
+---
+
+<div align="center">
+
+> _Build clean systems. Ship real products. Keep learning._ 🚀  
+
+</div>
