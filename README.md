@@ -2,18 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=250&section=header&text=Hello,%20I'm%20Nhat%20Nguyen&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Web3%20Enthusiast%20%7C%20DevOps%20Practitioner&descAlignY=55&descAlign=50" />
 </div>
 
-<br />
-
 <div align="center">
   
   ## 👨‍💻 About Me
   
-  > [cite_start]I am a **Full-stack Web Developer** with over **4 years of experience**[cite: 8], specializing in building scalable, high-performance web applications and decentralized solutions (dApps).
+  > I am a **Full-stack Web Developer** with over **4 years of experience**, specializing in building scalable, high-performance web applications and decentralized solutions (dApps).
 
-  [cite_start]Currently based in **Da Nang, Vietnam** [cite: 12][cite_start], I have a strong background in the **Web3 ecosystem (EVM/SVM)** [cite: 9] [cite_start]and **DevOps** practices[cite: 10]. I love solving complex architectural problems, from optimizing Frontend performance to orchestrating Kubernetes clusters.
+  Currently based in **Da Nang, Vietnam**, I have a strong background in the **Web3 ecosystem (EVM/SVM)** and **DevOps** practices. I love solving complex architectural problems, from optimizing Frontend performance to orchestrating Kubernetes clusters.
 
-  [cite_start]Please contact me via email: <a href="mailto:nhatnp.dn@gmail.com">nhatnp.dn@gmail.com</a> 
-
+  <a href="mailto:nhatnp.dn@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 ---
@@ -52,6 +51,7 @@
         <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/Microservices-000?style=flat-square&logo=serverless&logoColor=white" />
       </td>
     </tr>
 
@@ -90,7 +90,12 @@
 
 | Project | Role | Tech Stack |
 | :--- | :--- | :--- |
-| [cite_start]**RiseGate** [cite: 45] | **Full-stack & DevOps** | `Next.js` `Node.js` `MongoDB` `Kafka` `Docker` `K8s` `Wagmi` <br/> *Asset tokenization platform on blockchain.* |
-| [cite_start]**Token Mall** [cite: 61] | **Full-stack & DevOps** | `Next.js` `Microservices` `Viem` `Jenkins` `Cloudflare` <br/> *E-commerce platform for OCOP products using NFTs.* |
-| [cite_start]**MetaDAP Enterprise** [cite: 75] | **DevOps** | `EVM` `Smart Contracts` `Infrastructure Monitoring` <br/> *Enterprise blockchain system maintenance.* |
-| [cite_start]**Bidu** [cite: 115] | **Frontend Developer** | `React.js` `Redux-Saga` `Bootstrap` `Socket.io` <br/> *Social network & Fashion E-commerce platform.* |
+| **RiseGate** | **Full-stack & DevOps** | `Next.js` `Node.js` `MongoDB` `Kafka` `Docker` `K8s` `Wagmi` <br/> *Digital asset tokenization platform on blockchain.* |
+| **Token Mall** | **Full-stack & DevOps** | `Next.js` `Microservices` `Viem` `Jenkins` `Cloudflare` <br/> *E-commerce platform for OCOP products using NFTs.* |
+| **MetaDAP Enterprise** | **DevOps** | `EVM` `Smart Contracts` `Infrastructure Monitoring` <br/> *Enterprise blockchain system maintenance.* |
+| **Bidu** | **Frontend Developer** | `React.js` `Redux-Saga` `Bootstrap` `Socket.io` <br/> *Social network & Fashion E-commerce platform.* |
+
+---
+<div align="center">
+  <p>© 2025 Nguyen Phuoc Nhat. Built with passion and code.</p>
+</div>
