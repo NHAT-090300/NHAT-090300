@@ -1,39 +1,86 @@
-# Hi there, I'm Nguyen Phuoc Nhat! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=250&section=header&text=Hello,%20I'm%20Nhat%20Nguyen&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Web3%20Enthusiast%20%7C%20DevOps%20Practitioner&descAlignY=55&descAlign=50" />
+</div>
+
+<br />
 
 <div align="center">
   
-  **Senior Full-stack Developer | Web3 & Blockchain Specialist | DevOps Engineer**
+  ## 👨‍💻 About Me
   
-  *Building scalable, high-performance web applications & decentralized solutions.*
+  > [cite_start]I am a **Full-stack Web Developer** with over **4 years of experience**[cite: 8], specializing in building scalable, high-performance web applications and decentralized solutions (dApps).
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhatnp.dn@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NHAT-090300)
+  [cite_start]Currently based in **Da Nang, Vietnam** [cite: 12][cite_start], I have a strong background in the **Web3 ecosystem (EVM/SVM)** [cite: 9] [cite_start]and **DevOps** practices[cite: 10]. I love solving complex architectural problems, from optimizing Frontend performance to orchestrating Kubernetes clusters.
+
+  [cite_start]Please contact me via email: <a href="mailto:nhatnp.dn@gmail.com">nhatnp.dn@gmail.com</a> 
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I am a dedicated **Full-stack Developer** with **4+ years of experience** in the software industry. My expertise lies in the **Web3 ecosystem (EVM & SVM)**, where I have spent 3 years architecting and building decentralized applications. Additionally, I possess strong **DevOps** capabilities (1+ year), optimizing CI/CD pipelines and cloud infrastructure.
-
-* 🔭 **Current Focus:** Enterprise Blockchain Systems & Asset Tokenization.
-* 🌱 **Deepening Knowledge:** Advanced Kubernetes orchestration & Zero-Knowledge Proofs.
-* 💼 **Currently working at:** MetaDAP (Da Nang Branch).
-* 📍 **Location:** Da Nang, Vietnam.
-
----
-
-## 🛠️ Technical Arsenal
-
 <div align="center">
 
-| **Frontend** | **Backend** | **Web3 / Blockchain** | **DevOps & Cloud** |
-| :---: | :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) | ![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) |
-| ![Next JS](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white) | ![K8s](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) | ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) | ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) | **Wagmi / Viem** | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) |
+  ## ⚡ Technical Arsenal
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,docker,kubernetes,aws,solidity,mongodb,linux&perline=10&theme=dark" />
+  </a>
+
+  <br><br>
+
+  <table border="0">
+    <tr>
+      <td align="left" width="120">
+        <img src="https://img.shields.io/badge/Frontend-000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+      </td>
+    </tr>
+    
+    <tr>
+      <td align="left">
+         <img src="https://img.shields.io/badge/Backend-000?style=for-the-badge&logo=serverless&logoColor=white" />
+      </td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+      </td>
+    </tr>
+
+    <tr>
+      <td align="left">
+        <img src="https://img.shields.io/badge/DevOps-000?style=for-the-badge&logo=docker&logoColor=white" />
+      </td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_(EC2/S3)-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      </td>
+    </tr>
+
+    <tr>
+      <td align="left">
+        <img src="https://img.shields.io/badge/Web3-000?style=for-the-badge&logo=ethereum&logoColor=white" />
+      </td>
+      <td align="left">
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+        <img src="https://img.shields.io/badge/Wagmi-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Viem_sh-1E1E1E?style=flat-square&logo=v&logoColor=white" />
+        <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -41,35 +88,9 @@ I am a dedicated **Full-stack Developer** with **4+ years of experience** in the
 
 ## 🚀 Key Projects
 
-### 🪙 [RiseGate] - Asset Tokenization Platform
-*A blockchain-based platform enabling businesses to tokenize real-world assets with a transparent and scalable infrastructure.*
-* **Role:** Full-stack Developer & DevOps.
-* **Tech Stack:** Next.js, Wagmi, Node.js (Microservices), MongoDB, Kafka, Docker, Kubernetes.
-* **Key Achievement:** Successfully integrated Web3 wallets and optimized deployment pipelines.
-
-### 🛒 [Token Mall] - NFT E-commerce Ecosystem
-*An innovative E-commerce platform for OCOP products where NFTs function as digital vouchers.*
-* **Role:** Full-stack Developer.
-* **Tech Stack:** Next.js, Viem, React Hooks, Ant Design, Microservices Architecture.
-
-### 🔗 [MetaDAP Enterprise] - Blockchain Infrastructure
-*Enterprise-grade blockchain system leveraging EVM for smart contract execution.*
-* **Role:** DevOps Engineer.
-* **Tech Stack:** Ethereum Virtual Machine (EVM), Smart Contracts, Cloud Infrastructure.
-* **Responsibility:** Maintained network stability, security, and smart contract operations.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NHAT-090300&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Nhat's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NHAT-090300&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <sub>Let's build the future of Web3 together! 🚀</sub>
-</div>
+| Project | Role | Tech Stack |
+| :--- | :--- | :--- |
+| [cite_start]**RiseGate** [cite: 45] | **Full-stack & DevOps** | `Next.js` `Node.js` `MongoDB` `Kafka` `Docker` `K8s` `Wagmi` <br/> *Asset tokenization platform on blockchain.* |
+| [cite_start]**Token Mall** [cite: 61] | **Full-stack & DevOps** | `Next.js` `Microservices` `Viem` `Jenkins` `Cloudflare` <br/> *E-commerce platform for OCOP products using NFTs.* |
+| [cite_start]**MetaDAP Enterprise** [cite: 75] | **DevOps** | `EVM` `Smart Contracts` `Infrastructure Monitoring` <br/> *Enterprise blockchain system maintenance.* |
+| [cite_start]**Bidu** [cite: 115] | **Frontend Developer** | `React.js` `Redux-Saga` `Bootstrap` `Socket.io` <br/> *Social network & Fashion E-commerce platform.* |
