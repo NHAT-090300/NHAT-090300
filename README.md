@@ -6,9 +6,9 @@
   
   ## 👨‍💻 About Me
   
-  > I am a **Full-stack Web Developer** with over **4 years of experience**, specializing in building scalable, high-performance web applications and decentralized solutions (dApps).
+  > [cite_start]I am a **Full-stack Web Developer** with over **4 years of experience**, specializing in building scalable, high-performance web applications and decentralized solutions (dApps)[cite: 8].
 
-  Currently based in **Da Nang, Vietnam**, I have a strong background in the **Web3 ecosystem (EVM/SVM)** and **DevOps** practices. I love solving complex architectural problems, from optimizing Frontend performance to orchestrating Kubernetes clusters.
+  [cite_start]Currently based in **Da Nang, Vietnam** [cite: 4][cite_start], I have a strong background in the **Web3 ecosystem (EVM/SVM)** [cite: 9] [cite_start]and **DevOps** practices[cite: 10]. I love solving complex architectural problems, from optimizing Frontend performance to orchestrating Kubernetes clusters.
 
   <a href="mailto:nhatnp.dn@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
@@ -90,10 +90,10 @@
 
 | Project | Role | Tech Stack |
 | :--- | :--- | :--- |
-| **RiseGate** | **Full-stack & DevOps** | `Next.js` `Node.js` `MongoDB` `Kafka` `Docker` `K8s` `Wagmi` <br/> *Digital asset tokenization platform on blockchain.* |
-| **Token Mall** | **Full-stack & DevOps** | `Next.js` `Microservices` `Viem` `Jenkins` `Cloudflare` <br/> *E-commerce platform for OCOP products using NFTs.* |
-| **MetaDAP Enterprise** | **DevOps** | `EVM` `Smart Contracts` `Infrastructure Monitoring` <br/> *Enterprise blockchain system maintenance.* |
-| **Bidu** | **Frontend Developer** | `React.js` `Redux-Saga` `Bootstrap` `Socket.io` <br/> *Social network & Fashion E-commerce platform.* |
+| **RiseGate** | **Full-stack & DevOps** | [cite_start]`Next.js` `Node.js` `MongoDB` `Kafka` `Docker` `K8s` `Wagmi` <br/> *Digital asset tokenization platform on blockchain[cite: 49].* |
+| **Token Mall** | **Full-stack & DevOps** | [cite_start]`Next.js` `Microservices` `Viem` `Jenkins` `Cloudflare` <br/> *E-commerce platform for OCOP products using NFTs[cite: 64].* |
+| **MetaDAP Enterprise** | **DevOps** | [cite_start]`EVM` `Smart Contracts` `Infrastructure Monitoring` <br/> *Enterprise blockchain system maintenance[cite: 78].* |
+| **Bidu** | **Frontend Developer** | [cite_start]`React.js` `Redux-Saga` `Bootstrap` `Socket.io` <br/> *Social network & Fashion E-commerce platform[cite: 117].* |
 
 ---
 <div align="center">
