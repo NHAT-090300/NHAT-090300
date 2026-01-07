@@ -1,14 +1,5 @@
 <div align="center">
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=250&section=header&text=Hello,%20I'm%20Nhat%20Nguyen&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Web3%20Enthusiast%20%7C%20DevOps%20Practitioner&descAlignY=55&descAlign=50" />
-</div>
-
-💻 4+ years building scalable web applications  
-🔗 3+ years in Web3 (EVM & SVM)  
-⚙️ 1+ year in DevOps & Infrastructure  
-
-📍 Vietnam | 📧 nhatnp.dn@gmail.com  
-
 </div>
 
 ---
