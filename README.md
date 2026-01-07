@@ -1,91 +1,119 @@
-# 👋 Hi, I'm Nguyen Phuoc Nhat
+<h1 align="center">Nguyen Phuoc Nhat</h1>
+<h3 align="center">Full-stack Developer • Web3 • DevOps</h3>
 
-🚀 **Full-stack Web Developer | Web3 | DevOps**  
-📍 Da Nang, Vietnam  
+<p align="center">
+  <a href="mailto:nhatnp.dn@gmail.com">📧 Email</a> •
+  <a href="https://github.com/your-username">💻 GitHub</a> •
+  📍 Da Nang, Vietnam
+</p>
 
-I’m a **Full-stack Web Developer with 4+ years of experience** building scalable, high-performance web applications.  
-I have **strong expertise in Web3 (EVM & SVM)** and **DevOps**, with hands-on experience across the full product lifecycle — from frontend & backend to infrastructure and CI/CD.
-
----
-
-## 🧠 Tech Stack
-
-**Frontend**
-- React.js, Next.js, Vue.js  
-- Redux, Context API, VueX  
-- Tailwind CSS, MUI, Ant Design, Mantine  
-- HTML, CSS, SCSS, Responsive UI  
-
-**Backend**
-- Node.js, Express.js  
-- MongoDB, Mongoose  
-- Microservices, Kafka  
-- RESTful APIs  
-
-**Web3**
-- EVM & SVM  
-- Wagmi, Viem, Web3.js  
-- WalletConnect, Solana Web3  
-- NFT & Smart Contract Integration  
-
-**DevOps**
-- Docker, Kubernetes (K8s)  
-- Jenkins, GitHub Actions, CI/CD  
-- AWS (EC2, S3)  
-- Nginx, Cloudflare  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 💼 Work Experience
+## ⚡ About Me
 
-### MetaDAP – Da Nang (2023 – Present)
-**Full-stack Developer / DevOps**
+> Building scalable systems from **UI → Backend → Blockchain → Infrastructure**
 
-- Developed and maintained Web3 & enterprise blockchain platforms  
-- Worked on **RiseGate**, **TokenMall**, **MetaDAP Enterprise Blockchain**  
-- Built Web3-integrated frontend using Next.js  
-- Designed backend systems with Node.js & MongoDB  
-- Managed CI/CD, Docker, Kubernetes, Cloudflare  
-- Proposed technical solutions and optimized performance  
+- 🧠 **4+ years** building high-performance web applications  
+- 🔗 **Web3 specialist** (EVM & SVM, NFT, dApps, smart contract integration)  
+- ☁️ **DevOps-oriented developer** (Docker, Kubernetes, CI/CD, Cloudflare)  
+- 🏗️ Strong experience with **microservices & system design**  
+- 🚀 Product-focused, performance-driven, production-ready mindset  
 
 ---
 
-### STDIO Hue – Da Nang (2021 – 2023)
-**Front-end Developer**
+## 🛠️ Tech Arsenal
 
-- Developed large-scale web & e-commerce platforms  
-- Worked with React, Next.js, Vue  
-- Collaborated in Agile/Scrum teams  
-- Projects: Bidu, DaPass, Gapmash, Gtech, Growth-Wallet  
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,vue,redux,tailwind,html,css,sass" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,kafka" />
+</p>
+
+### Web3
+<p>
+  <img src="https://skillicons.dev/icons?i=ethereum,solana" />
+</p>
+
+- Wagmi • Viem • Web3.js • WalletConnect • Solana-web3.js
+
+### DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,jenkins,githubactions,cloudflare" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Professional Experience
 
-### 🔹 RiseGate
+### **MetaDAP – Da Nang**  
+**Full-stack Developer / DevOps** (2023 – Present)
+
+- Developed **enterprise blockchain & Web3 platforms**
+- Core projects: **RiseGate**, **TokenMall**, **MetaDAP Enterprise Blockchain**
+- Built Web3-integrated frontend with **Next.js**
+- Designed scalable backend using **Node.js & MongoDB**
+- Operated **CI/CD, Docker, Kubernetes, Cloudflare**
+- Improved performance, reliability, and deployment automation
+
+---
+
+### **STDIO Hue – Da Nang**  
+**Front-end Developer** (2021 – 2023)
+
+- Built large-scale web & e-commerce systems
+- Tech stack: React, Next.js, Vue
+- Worked in **Agile/Scrum** teams
+- Projects: Bidu, DaPass, Gapmash, Gtech, Growth-Wallet
+
+---
+
+## 🚀 Highlight Projects
+
+### 🔹 RiseGate  
 Digital asset tokenization platform  
-**Tech:** Next.js, Wagmi, Node.js, MongoDB, Kafka, Docker, K8s  
-👉 https://risegate.io  
+🌐 https://risegate.io  
 
-### 🔹 TokenMall
-NFT voucher-based e-commerce platform  
-**Tech:** Next.js, Viem, Web3, Microservices  
-👉 https://tokenmall.vn  
+### 🔹 TokenMall  
+NFT-based voucher e-commerce platform  
+🌐 https://tokenmall.vn  
 
-### 🔹 MetaDAP Enterprise Blockchain
-Enterprise EVM-compatible blockchain system  
-**Role:** DevOps & Infrastructure  
-👉 https://explorer.chain.metadap.io  
+### 🔹 MetaDAP Enterprise Blockchain  
+EVM-compatible enterprise blockchain  
+🌐 https://explorer.chain.metadap.io  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=your-username&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="140"/>
+</p>
 
 ---
 
 ## 🎓 Education
 **Da Nang University of Science and Technology**  
-Major: Construction Informatics  
-GPA: 2.9 / 4  
+Construction Informatics • GPA: 2.9 / 4  
 
 ---
 
-## 📫 Contact
-- 📧 Email: **nhatnp.dn@gmail.com**
-- 💼 GitHub: https://github.com/NHAT-090300
+## 🤝 Let's Connect
+- 📧 **nhatnp.dn@gmail.com**
+- 💻 **https://github.com/your-username**
+
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories!
+</p>
