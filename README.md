@@ -136,6 +136,6 @@ Projects: Bidu, DaPass, GapMash, GTech, Growth Wallet
 ## 🤝 Connect with Me
 
 - 📧 Email: **nhatnp.dn@gmail.com**
-- 🌐 Portfolio: [_(optional)_](https://nguyen-phuoc-nhat.vercel.app/)
+- 🌐 Portfolio: [_(nguyen-phuoc-nhat.vercel.app)_](https://nguyen-phuoc-nhat.vercel.app/)
 
 
